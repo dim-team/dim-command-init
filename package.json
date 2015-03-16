@@ -1,6 +1,6 @@
 {
   "name": "dim-command-init",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "dim project scaffold",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "yeoman-generator": "0.17.0",
     "colors": "0.6.2",
     "debug": "1.0.2",
-    "dim-generator": "0.2.2-3"
+    "generator-dim": "0.2.2-3"
   }
 }
