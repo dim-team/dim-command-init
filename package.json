@@ -1,6 +1,6 @@
 {
   "name": "dim-command-init",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "dim project scaffold",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JerroldLee/dim-command-init.git"
+    "url": "https://github.com/dim-team/dim-command-init.git"
   },
   "keywords": [
     "scaffold",
@@ -17,13 +17,13 @@
   "author": "Jerrold <lijiayouyj@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JerroldLee/dim-command-init/issues"
+    "url": "https://github.com/dim-team/dim-command-init/issues"
   },
-  "homepage": "https://github.com/JerroldLee/dim-command-init",
+  "homepage": "https://github.com/dim-team/dim-command-init",
   "dependencies": {
     "yeoman-generator": "0.17.0",
     "colors": "0.6.2",
     "debug": "1.0.2",
-    "generator-dim": "0.2.2-4"
+    "generator-dim": "*"
   }
 }
